@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.game{width:300px;margin:10px;display:-ms-flexbox;display:flex}.board{width:150px;height:150px;border:1px solid #000}.box{width:50px;height:50px;line-height:50px;text-align:center;float:left;border:1px solid #000;font-weight:900;font-size:1.5em;cursor:default}.box,.history{-webkit-box-sizing:border-box;box-sizing:border-box}.history{width:148px;padding-left:10px}.history p{margin-top:0;margin-bottom:4px}ul{list-style:none;padding:0;margin:0}
+/*# sourceMappingURL=main.e5ddf804.css.map*/
